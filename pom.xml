@@ -9,10 +9,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <sonar.projectKey>PavelVysotski_java-free-stream-5</sonar.projectKey>
-        <sonar.organization>pavelvysotski</sonar.organization>
+        <sonar.projectKey>PavelVysotski_HW3_calculator</sonar.projectKey>
+        <sonar.organization>pavelvysotski-1</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>7f361da6b398d21af0d0c43335320fa64f349db9</sonar.login>
+        <sonar.login>5a91a1a7cb88e24ee55b022753f3dd502729f119</sonar.login>
     </properties>
 
     <dependencies>
